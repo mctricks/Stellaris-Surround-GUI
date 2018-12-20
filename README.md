@@ -9,6 +9,9 @@ either the left or right side of the screen.
 This mod essentially changes the UI to only show on the central monitor. That way you get all the awesomness of NVIDIA surround, with none
 of the pain of GUI all over the place. 
 
+![alt text](https://raw.githubusercontent.com/mctricks/Stellaris-Surround-GUI/master/Example-1.jpg)
+![alt text](https://raw.githubusercontent.com/mctricks/Stellaris-Surround-GUI/master/Example-2.jpg)
+
 This was created for three 1080p monitors using NVIDIA Surround, with a 42 pixel bezel between each monitor (5844 x 1080). 
 
 To install this mod, simply copy-paste the files in the mod's Stellaris folder to their corresponding folders in the actual installation folder.
