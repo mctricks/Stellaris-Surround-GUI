@@ -1089,8 +1089,8 @@ guiTypes = {
 		
 		containerWindowType = {
 			name = "background"
-			size = { width = 58 height = 640 }
-			position = { x = 197 y = 5 }
+			size = { width = 30 height = 640 }
+			position = { x = 225 y = 5 }
 			
 			background = {
 				name = "navbar_bg"
