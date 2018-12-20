@@ -16,3 +16,5 @@ To install this mod, simply copy-paste the files in the mod's Stellaris folder t
 You may want to make a backup of these files if you intend on switching back and forth between surround and standard.
 
 I may or may not create a tool to set a custom bezel size, and toggle the mod on and off depending on public interest.
+
+KNOWN ISSUE: There's no way I've found to have the left bar be expandable and have it look right, so I've modified the files to only work as the unexpanded version. You will need to lock your sidebar for it to work right.
