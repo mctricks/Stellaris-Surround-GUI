@@ -9,8 +9,8 @@ either the left or right side of the screen.
 This mod essentially changes the UI to be bound to the inner edges of the monitors instead of the outer edges. This is to make use of the extra monitor space, without all of the head turning. That way you get all the awesomness of NVIDIA surround, with none
 of the pain of GUI all over the place. (This is Version 2).
 
-![alt text](https://raw.githubusercontent.com/mctricks/Stellaris-Surround-GUI/master/Version 2 - Example 1.jpg)
-![alt text](https://raw.githubusercontent.com/mctricks/Stellaris-Surround-GUI/master/Version 2 - Example 2.jpg)
+![alt text](https://raw.githubusercontent.com/mctricks/Stellaris-Surround-GUI/master/Version2-Example1.jpg)
+![alt text](https://raw.githubusercontent.com/mctricks/Stellaris-Surround-GUI/master/Version2-Example2.jpg)
 
 This was created for three 1080p monitors using NVIDIA Surround, with a 42 pixel bezel between each monitor (5844 x 1080). 
 
