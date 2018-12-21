@@ -1,4 +1,4 @@
-# Stellaris-Surround-GUI
+# Stellaris Surround GUI
 
 This is a mod for the video game Stellaris.
 
