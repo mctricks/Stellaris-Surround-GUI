@@ -16,7 +16,7 @@ guiTypes = {
 
 		orientation = LOWER_LEFT
 		origo = LOWER_LEFT
-		show_position = { x = 1997 y = -30 }
+		show_position = { x = 1967 y = -30 }
 		hide_position = { x = -475 y = -30 }
 		animation_time = 200
 		animation_type = decelerated
