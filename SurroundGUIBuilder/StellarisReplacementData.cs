@@ -461,6 +461,20 @@ namespace SurroundGUIBuilder
                         IncludeBevel = true
                     }
                 }
+            },
+            new Template()
+            {
+                Filename = "customize_species.gui",
+                Replacements = new List<Replacement>()
+                {
+                    new Replacement()
+                    {
+                        Name = "menu",
+                        BaseValue = 0,
+                        ScreenLengths = 1,
+                        IncludeBevel = true
+                    }
+                }
             }
         };
     }

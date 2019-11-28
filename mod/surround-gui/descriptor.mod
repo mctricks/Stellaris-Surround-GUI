@@ -3,6 +3,6 @@ tags={
 	"Graphics"
 }
 name="Surround GUI"
-picture="SurroundGUI.png"
+picture="thumbnail.png"
 supported_version="2.5.1"
 remote_file_id="1922549933"
