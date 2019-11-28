@@ -273,7 +273,7 @@ namespace SurroundGUIBuilder
                 {
                     new Replacement()
                     {
-                        Name = "policies_view",
+                        Name = "edicts_view",
                         BaseValue = 35,
                         ScreenLengths = 2,
                         IncludeBevel = true

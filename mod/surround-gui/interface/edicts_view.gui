@@ -2,9 +2,9 @@ guiTypes = {
 	containerWindowType = {
 		name = "edicts_view"
 		size = { width = 595 height = 640 } 
-		position = { x = [edicts_view] y = -640 }
-		show_position = { x = [edicts_view] y = 40 }
-        hide_position = { x = [edicts_view] y = -640 }
+		position = { x = 3971 y = -640 }
+		show_position = { x = 3971 y = 40 }
+        hide_position = { x = 3971 y = -640 }
         animation_time = 200
         animation_type = decelerated
 		orientation = upper_left
