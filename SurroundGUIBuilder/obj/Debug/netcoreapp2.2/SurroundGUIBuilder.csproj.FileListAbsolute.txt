@@ -1,0 +1,11 @@
+C:\Users\james\Repos\Stellaris-Surround-Gui\SurroundGUIBuilder\bin\Debug\netcoreapp2.2\SurroundGUIBuilder.deps.json
+C:\Users\james\Repos\Stellaris-Surround-Gui\SurroundGUIBuilder\bin\Debug\netcoreapp2.2\SurroundGUIBuilder.runtimeconfig.json
+C:\Users\james\Repos\Stellaris-Surround-Gui\SurroundGUIBuilder\bin\Debug\netcoreapp2.2\SurroundGUIBuilder.runtimeconfig.dev.json
+C:\Users\james\Repos\Stellaris-Surround-Gui\SurroundGUIBuilder\bin\Debug\netcoreapp2.2\SurroundGUIBuilder.dll
+C:\Users\james\Repos\Stellaris-Surround-Gui\SurroundGUIBuilder\bin\Debug\netcoreapp2.2\SurroundGUIBuilder.pdb
+C:\Users\james\Repos\Stellaris-Surround-Gui\SurroundGUIBuilder\obj\Debug\netcoreapp2.2\SurroundGUIBuilder.csprojAssemblyReference.cache
+C:\Users\james\Repos\Stellaris-Surround-Gui\SurroundGUIBuilder\obj\Debug\netcoreapp2.2\SurroundGUIBuilder.csproj.CoreCompileInputs.cache
+C:\Users\james\Repos\Stellaris-Surround-Gui\SurroundGUIBuilder\obj\Debug\netcoreapp2.2\SurroundGUIBuilder.AssemblyInfoInputs.cache
+C:\Users\james\Repos\Stellaris-Surround-Gui\SurroundGUIBuilder\obj\Debug\netcoreapp2.2\SurroundGUIBuilder.AssemblyInfo.cs
+C:\Users\james\Repos\Stellaris-Surround-Gui\SurroundGUIBuilder\obj\Debug\netcoreapp2.2\SurroundGUIBuilder.dll
+C:\Users\james\Repos\Stellaris-Surround-Gui\SurroundGUIBuilder\obj\Debug\netcoreapp2.2\SurroundGUIBuilder.pdb
